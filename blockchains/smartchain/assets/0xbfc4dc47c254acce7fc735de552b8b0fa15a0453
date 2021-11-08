@@ -1,0 +1,11 @@
+{
+    "name": "COWRIE",
+    "type": "BEP20",
+    "symbol": "COWRIE",
+    "decimals": 18,
+    "website": "https://cowriesocean.com/",
+    "description": "SierraToken is the token of a community created to prevent addictions.",
+    "explorer": "https://bscscan.com/token/0xbfc4dc47c254acce7fc735de552b8b0fa15a0453",
+    "status": "active",
+    "id": "0xbfc4dc47c254acce7fc735de552b8b0fa15a0453"
+}
